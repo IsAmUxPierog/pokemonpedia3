@@ -1,0 +1,35 @@
+.pokemon-card {
+  width: 10em;
+  margin: 10px;
+}
+.pokemon-name {
+  font-size: 1em;
+  font-family:'Press Start 2P', cursive;
+  text-align: center
+}
+.grass {
+  background-color: #78c850;
+  font-size: 0.7em;
+  font-family:'Press Start 2P', cursive;
+  color: aliceblue;
+  text-align: center;
+}
+.fire {
+  background-color: #f08030;
+  font-size: 0.7em;
+  font-family:'Press Start 2P', cursive;
+  color: aliceblue;
+  text-align: center;
+}
+
+.electric {
+  background-color: #eecc0e;
+  font-size: 0.7em;
+  font-family:'Press Start 2P', cursive;
+  color: aliceblue;
+  text-align: center;
+}
+.pokemon-list {
+  display: flex;
+  flex-wrap: wrap;
+}
